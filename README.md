@@ -1,59 +1,56 @@
-# Destinos Busan
+# Desafios Rocketseat
 
-Landing page de turismo criada como desafio prático da Rocketseat, usando apenas HTML e CSS.
+Repositório criado para reunir meus desafios e projetos de estudo feitos durante a trilha de HTML e CSS da Rocketseat.
 
-O projeto apresenta Busan, na Coreia do Sul, com destaque para pontos turísticos, imagens e textos descritivos. A proposta foi praticar estruturação semântica com HTML e estilização com CSS para construir uma página organizada, agradável e responsiva.
+A ideia é manter cada desafio em uma pasta separada, facilitando a organização dos arquivos e acompanhando minha evolução nos estudos de front-end.
 
-## Preview
+## Desafios
 
-A página contém:
+| Desafio | Descrição | Tecnologias |
+| --- | --- | --- |
+| `local_turistico` | Landing page de turismo sobre Busan, com imagens, textos descritivos e seções de destinos turísticos. | HTML, CSS |
+| `pagina-receita` | Página de receita de cupcake de café com chantilly, com imagem, ingredientes e modo de preparo. | HTML, CSS |
 
-- seção principal apresentando Busan;
-- imagem de destaque com legenda;
-- lista de 3 destinos turísticos imperdíveis;
-- descrições dos locais;
-- categorias como história, famílias, casais e orçamento;
-- rodapé com assinatura do autor.
-
-## Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- Google Fonts
-
-## Estrutura do projeto
+## Estrutura
 
 ```text
 .
-├── assets/
-│   ├── heart.svg
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   ├── image3.jpg
-│   └── image4.jpg
-├── index.html
-├── style.css
+├── local_turistico/
+│   ├── assets/
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
+├── pagina-receita/
+│   ├── assets/
+│   ├── index.html
+│   └── style.css
 └── README.md
 ```
 
-## Como visualizar
+## Como visualizar os projetos
 
-Para visualizar o projeto, basta abrir o arquivo `index.html` no navegador.
+Abra o arquivo `index.html` dentro da pasta do desafio que deseja visualizar.
 
-Também é possível usar a extensão Live Server no VS Code para abrir a página em um servidor local.
+Exemplo:
 
-## Objetivo do desafio
+```text
+local_turistico/index.html
+pagina-receita/index.html
+```
 
-Este desafio teve como objetivo praticar:
+Também é possível usar a extensão Live Server no VS Code para abrir cada projeto em um servidor local.
 
-- estrutura básica de uma página HTML;
+## Objetivo
+
+Praticar os fundamentos de desenvolvimento web, principalmente:
+
+- estruturação de páginas com HTML;
 - uso de tags semânticas;
-- organização de conteúdo em seções;
-- aplicação de fontes externas;
-- uso de imagens;
-- espaçamentos, cores, bordas e tipografia com CSS;
-- criação de um layout visualmente agradável.
+- organização de arquivos e pastas;
+- estilização com CSS;
+- aplicação de fontes, cores, imagens e espaçamentos;
+- criação de layouts simples e visualmente agradáveis.
 
 ## Autor
 
-Feito por Pedro durante os estudos de HTML e CSS na Rocketseat.
+Feito por Pedro durante os estudos na Rocketseat.
