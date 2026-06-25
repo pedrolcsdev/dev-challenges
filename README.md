@@ -1,12 +1,12 @@
-# Desafios Rocketseat
+# Projetos de Estudo
 
-Repositório criado para reunir meus desafios e projetos de estudo feitos durante a trilha de HTML e CSS da Rocketseat.
+Repositório criado para reunir meus projetinhos simples de aprendizado, testes e práticas básicas de desenvolvimento web.
 
-A ideia é manter cada desafio em uma pasta separada, facilitando a organização dos arquivos e acompanhando minha evolução nos estudos de front-end.
+A ideia é manter cada projeto em uma pasta separada, facilitando a organização dos arquivos e acompanhando minha evolução nos estudos.
 
-## Desafios
+## Projetos
 
-| Desafio | Descrição | Tecnologias |
+| Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | `local_turistico` | Landing page de turismo sobre Busan, com imagens, textos descritivos e seções de destinos turísticos. | HTML, CSS |
 | `pagina-receita` | Página de receita de cupcake de café com chantilly, com imagem, ingredientes e modo de preparo. | HTML, CSS |
@@ -27,9 +27,9 @@ A ideia é manter cada desafio em uma pasta separada, facilitando a organizaçã
 └── README.md
 ```
 
-## Como visualizar os projetos
+## Como visualizar
 
-Abra o arquivo `index.html` dentro da pasta do desafio que deseja visualizar.
+Abra o arquivo `index.html` dentro da pasta do projeto que deseja visualizar.
 
 Exemplo:
 
@@ -38,11 +38,11 @@ local_turistico/index.html
 pagina-receita/index.html
 ```
 
-Também é possível usar a extensão Live Server no VS Code para abrir cada projeto em um servidor local.
+Também é possível usar a extensão Live Server no VS Code para abrir os projetos em um servidor local.
 
 ## Objetivo
 
-Praticar os fundamentos de desenvolvimento web, principalmente:
+Guardar exercícios, testes e projetos básicos feitos para praticar os fundamentos de desenvolvimento web, principalmente:
 
 - estruturação de páginas com HTML;
 - uso de tags semânticas;
@@ -53,4 +53,4 @@ Praticar os fundamentos de desenvolvimento web, principalmente:
 
 ## Autor
 
-Feito por Pedro durante os estudos na Rocketseat.
+Feito por Pedro durante meus estudos de desenvolvimento web.
